@@ -9,9 +9,10 @@
 ___
 ## `➢` Simulation Preview
 ### `⤷` 4-Bit Adder
-![(1) 4-bit-adder](https://github.com/syn-chromatic/relay-bit-adder/assets/68112904/eb439f27-0a93-4350-ab10-07deef838495)
+![4-bit-adder](https://github.com/syn-chromatic/relay-bit-adder/assets/68112904/7c7db35a-ff5d-4dd5-b795-3c50357e0f7c)
 
 ___
 ## `➢` Schematic Preview
 ### `⤷` 4-Bit Adder
-![(2) 4-bit-adder-schematic](https://github.com/syn-chromatic/relay-bit-adder/assets/68112904/3c7d1832-111b-4dc0-91fc-e9ea8f7c8865)
+![4-bit-adder-schematic](https://github.com/syn-chromatic/relay-bit-adder/assets/68112904/40468b6e-1d4b-414d-ace8-d767861afec6)
+
