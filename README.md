@@ -4,6 +4,7 @@
 `Schematics were created with Proteus 8`
 
 * The Animated LEDs were replaced with Animated Lamps as they were causing issues with the simulation.
+* 48 Relays were used, but it can be reduced by using a Half-Adder on the first bit.
 
 ___
 ## `➢` Simulation Preview
